@@ -19,6 +19,7 @@ fn main() {
     //loop throug array
     //for num in mumbers {
 
+    // iter() is another way
 
     }
 
